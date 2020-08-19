@@ -56,13 +56,13 @@ provide additional information.
 
 ## Preparing your repository
 
-Once your paper enters the review process, the Area Editor will create a
-private repository from this template and give you read access to it. To
-populate the repository with your own materials, fork it to make a copy that
-will live in your own Github account. Once you populate and customize the
-repository to your liking, open a Pull Request to begin a review by the Area
-Editor. Once changes are accepted, the review process will begin.
-
+Once your paper enters the review process, either the Area Editor or the 
+Editor-in-Chief will create a private repository from this template and give 
+you read access to it. To populate the repository with your own materials, 
+fork it to make a copy that will live in your own Github account. Once you 
+populate and customize the repository to your liking, open a Pull Request 
+to begin an initial review by either the Area Editor or the Editor-in-Chief. 
+Once initial compliance is verified, the review process will begin.
 
 ## Review process 
 
@@ -82,7 +82,7 @@ The version of the software and/or data associated with the paper will be
 tagged in Github as a release and given both a version number and a DOI. The
 default version number would be 1.0, but if the software is already under
 development and has a versioning scheme (or you just want a different version
-number), let the Area Editor know.
+number), let the Area Editor or the Editor-in-Chief know.
 
 ## FAQs
 
@@ -114,8 +114,8 @@ number), let the Area Editor know.
 
  * What if I later find a bug in the software and I want to fix it?
 
-   * Please contact the Area Editor and we will determine the best course of
-     action.
+   * Please contact the Area Editor or the Editor-in-Cheif and we will determine 
+     the best course of action.
 
  * If I come out with a new version of the software later on, can I add it to
    the existing repository within the IJOC organization?
