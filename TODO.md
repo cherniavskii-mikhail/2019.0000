@@ -76,13 +76,18 @@ and that the copyright holders have been notified of the submission. The
 copyright holder may or may not be you, depending on your employment contract
 and who funded the work.
 
-## Version number and DOI
+## Tag name and DOI
 
-The version of the software and/or data associated with the paper will be
-tagged in Github as a release and given both a version number and a DOI. The
-default version number would be 1.0, but if the software is already under
-development and has a versioning scheme (or you just want a different version
-number), let the Area Editor or the Editor-in-Chief know.
+The version of the software and/or data that is archived in the IJOC archive on Github is 
+fixed and will be tagged in the IJOC repo as a release in order to obtain a Zenodo DOI.
+The default tag name is derived from the DOI of the paper (as is the name of the repo 
+itself). Exceptions may be made in some cases, but it would generally be preferable *not* 
+to use the version numbering scheme of the project itself in naming a tag in this archive. 
+In other words, even if you have a scheme for numbering versions and the version of your 
+software used in the paper is `v5.1.2`, we would likely still name the tag in this archive 
+using our standard naming scheme. In the README of this archive and in the paper itself, 
+you can note which version of the software from your development repo is actually archived 
+and in the IJOC repo and used in the paper.
 
 ## FAQs
 
