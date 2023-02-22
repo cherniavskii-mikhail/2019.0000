@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by T. Ralphs. 
+[This is a Template](https://doi.org/10.1287/ijoc.2019.0000) by T. Ralphs. 
 The snapshot is based on 
 [this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
 in the development repository. 
@@ -18,20 +18,21 @@ get a more recent version or would like support**
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
+To cite the contents of this respository, please cite both the paper and this repo, using their respective DOIs.
 
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+https://doi.org/10.1287/ijoc.2019.0000
+https://doi.org/10.1287/ijoc.2019.0000.cd
 
-Below is the BibTex for citing this version of the code.
+Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
 @article{CacheTest,
   author =        {T. Ralphs},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest} Version v1.0},
+  title =         {{CacheTest}},
   year =          {2020},
-  doi =           {10.5281/zenodo.3977566},
-  url =           {https://github.com/INFORMSJoC/JoCTemplate},
+  doi =           {10.1287/ijoc.2019.0000.cd},
+  url =           {https://github.com/INFORMSJoC/2019.0000},
 }  
 ```
 
