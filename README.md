@@ -18,7 +18,7 @@ get a more recent version or would like support**
 
 ## Cite
 
-To cite the contents of this respository, please cite both the paper and this repo, using their respective DOIs.
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
 https://doi.org/10.1287/ijoc.2019.0000
 
